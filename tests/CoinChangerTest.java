@@ -60,4 +60,11 @@ public class CoinChangerTest {
         expectedChange.add(1);
         assertEquals(expectedChange, coinChanger.giveChange(9));
     }
+
+    @Test
+    public void givesChangeFor10() throws Exception {
+        ArrayList<Integer> expectedChange = new ArrayList<Integer>();
+        expectedChange.add(10);
+        assertEquals(expectedChange, coinChanger.giveChange(10));
+    }
 }
