@@ -8,14 +8,11 @@ import java.util.ArrayList;
 public class CoinChanger {
     public ArrayList giveChange(int amount){
         ArrayList <Integer> change = new ArrayList<Integer>();
-        if (amount == 1){
+        while (amount > 0){
             change.add(1);
+            amount -= 1;
         }
-        else{
-            change.add(1);
-            change.add(1);
-        }
-
+       
         return change;
     }
 }
