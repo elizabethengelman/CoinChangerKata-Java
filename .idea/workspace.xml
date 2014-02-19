@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a78c5f22-bd43-4eff-8f24-452fa8c8018c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/CoinChangerTest.java" afterPath="$PROJECT_DIR$/tests/CoinChangerTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/tests/CoinChangerTest.java" afterPath="$PROJECT_DIR$/src/com/coinChanger/CoinChangerTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="CoinChangerKata.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -76,22 +77,12 @@
         </entry>
       </file>
       <file leaf-file-name="CoinChangerTest.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tests/CoinChangerTest.java">
+        <entry file="file://$PROJECT_DIR$/src/com/coinChanger/CoinChangerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="113" column="28" selection-start="3555" selection-end="3555" vertical-scroll-proportion="0.93303573" vertical-offset="1277" max-vertical-offset="1860">
+            <state line="77" column="48" selection-start="2044" selection-end="2044" vertical-scroll-proportion="2.7369668" vertical-offset="0" max-vertical-offset="1365">
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#544#553#0" expanded="true" />
-                <element signature="e#780#789#0" expanded="true" />
-                <element signature="e#1047#1056#0" expanded="true" />
-                <element signature="e#1345#1354#0" expanded="true" />
-                <element signature="e#1581#1590#0" expanded="true" />
-                <element signature="e#1942#1951#0" expanded="true" />
-                <element signature="e#2180#2189#0" expanded="true" />
-                <element signature="e#2481#2490#0" expanded="true" />
-                <element signature="e#2752#2761#0" expanded="true" />
-                <element signature="e#2991#3000#0" expanded="true" />
-                <element signature="e#3261#3270#0" expanded="true" />
+                <element signature="e#436#445#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -110,9 +101,9 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/com/coinChanger/CoinChangerTest.java" />
         <option value="$PROJECT_DIR$/src/com/coinChanger/CoinChanger.java" />
         <option value="$PROJECT_DIR$/tests/CoinChangerTest.java" />
+        <option value="$PROJECT_DIR$/src/com/coinChanger/CoinChangerTest.java" />
       </list>
     </option>
   </component>
@@ -176,20 +167,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="tests" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CoinChangerKata" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CoinChangerKata" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -215,6 +192,7 @@
     <property name="recentsLimit" value="5" />
     <property name="dynamic.classpath" value="false" />
     <property name="FullScreen" value="false" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/com/coinChanger" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
@@ -232,7 +210,7 @@
       <module name="CoinChangerKata" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.coinChanger" />
       <option name="MAIN_CLASS_NAME" value="com.coinChanger.CoinChangerTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
@@ -456,22 +434,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/CoinChangerTest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/coinChanger/CoinChangerTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="79" column="0" selection-start="2360" selection-end="2360" vertical-scroll-proportion="0.0" vertical-offset="1185" max-vertical-offset="1305">
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#544#553#0" expanded="true" />
-            <element signature="e#780#789#0" expanded="true" />
-            <element signature="e#1047#1056#0" expanded="true" />
-            <element signature="e#1345#1354#0" expanded="true" />
-            <element signature="e#1581#1590#0" expanded="true" />
-            <element signature="e#1942#1951#0" expanded="true" />
-            <element signature="e#2180#2189#0" expanded="true" />
-            <element signature="e#2481#2490#0" expanded="true" />
-            <element signature="e#2752#2761#0" expanded="true" />
-            <element signature="e#2991#3000#0" expanded="true" />
-            <element signature="e#3261#3270#0" expanded="true" />
+            <element signature="e#436#445#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -483,22 +451,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/CoinChangerTest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/coinChanger/CoinChangerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="113" column="28" selection-start="3555" selection-end="3555" vertical-scroll-proportion="0.93303573" vertical-offset="1277" max-vertical-offset="1860">
+        <state line="77" column="48" selection-start="2044" selection-end="2044" vertical-scroll-proportion="2.7369668" vertical-offset="0" max-vertical-offset="1365">
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#544#553#0" expanded="true" />
-            <element signature="e#780#789#0" expanded="true" />
-            <element signature="e#1047#1056#0" expanded="true" />
-            <element signature="e#1345#1354#0" expanded="true" />
-            <element signature="e#1581#1590#0" expanded="true" />
-            <element signature="e#1942#1951#0" expanded="true" />
-            <element signature="e#2180#2189#0" expanded="true" />
-            <element signature="e#2481#2490#0" expanded="true" />
-            <element signature="e#2752#2761#0" expanded="true" />
-            <element signature="e#2991#3000#0" expanded="true" />
-            <element signature="e#3261#3270#0" expanded="true" />
+            <element signature="e#436#445#0" expanded="true" />
           </folding>
         </state>
       </provider>
