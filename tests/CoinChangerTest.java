@@ -92,5 +92,13 @@ public class CoinChangerTest {
         assertEquals(expectedChange, coinChanger.giveChange(25));
     }
 
+    @Test
+    public void givesChangeFor50() throws Exception {
+        ArrayList<Integer> expectedChange = new ArrayList<Integer>();
+        expectedChange.add(25);
+        expectedChange.add(25);
+        assertEquals(expectedChange,coinChanger.giveChange(50));
+    }
+
 
 }

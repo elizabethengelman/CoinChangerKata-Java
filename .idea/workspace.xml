@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a78c5f22-bd43-4eff-8f24-452fa8c8018c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/coinChanger/CoinChanger.java" afterPath="$PROJECT_DIR$/src/com/coinChanger/CoinChanger.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/CoinChangerTest.java" afterPath="$PROJECT_DIR$/tests/CoinChangerTest.java" />
     </list>
     <ignored path="CoinChangerKata.iws" />
@@ -67,19 +66,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="CoinChanger.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="CoinChanger.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/coinChanger/CoinChanger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="22" selection-start="461" selection-end="461" vertical-scroll-proportion="0.5691964" vertical-offset="0" max-vertical-offset="448">
+            <state line="20" column="0" selection-start="470" selection-end="470" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CoinChangerTest.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="CoinChangerTest.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tests/CoinChangerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="92" column="5" selection-start="2868" selection-end="2868" vertical-scroll-proportion="0.0" vertical-offset="977" max-vertical-offset="1530">
+            <state line="99" column="64" selection-start="3132" selection-end="3132" vertical-scroll-proportion="0.8995536" vertical-offset="1082" max-vertical-offset="1650">
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#544#553#0" expanded="true" />
@@ -91,6 +90,7 @@
                 <element signature="e#2180#2189#0" expanded="true" />
                 <element signature="e#2481#2490#0" expanded="true" />
                 <element signature="e#2752#2761#0" expanded="true" />
+                <element signature="e#2991#3000#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -110,8 +110,8 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/src/com/coinChanger/CoinChangerTest.java" />
-        <option value="$PROJECT_DIR$/tests/CoinChangerTest.java" />
         <option value="$PROJECT_DIR$/src/com/coinChanger/CoinChanger.java" />
+        <option value="$PROJECT_DIR$/tests/CoinChangerTest.java" />
       </list>
     </option>
   </component>
@@ -469,13 +469,21 @@
             <element signature="e#2180#2189#0" expanded="true" />
             <element signature="e#2481#2490#0" expanded="true" />
             <element signature="e#2752#2761#0" expanded="true" />
+            <element signature="e#2991#3000#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/coinChanger/CoinChanger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="0" selection-start="470" selection-end="470" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/CoinChangerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="92" column="5" selection-start="2868" selection-end="2868" vertical-scroll-proportion="0.0" vertical-offset="977" max-vertical-offset="1530">
+        <state line="99" column="64" selection-start="3132" selection-end="3132" vertical-scroll-proportion="0.8995536" vertical-offset="1082" max-vertical-offset="1650">
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#544#553#0" expanded="true" />
@@ -487,14 +495,8 @@
             <element signature="e#2180#2189#0" expanded="true" />
             <element signature="e#2481#2490#0" expanded="true" />
             <element signature="e#2752#2761#0" expanded="true" />
+            <element signature="e#2991#3000#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/coinChanger/CoinChanger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="22" selection-start="461" selection-end="461" vertical-scroll-proportion="0.5691964" vertical-offset="0" max-vertical-offset="448">
-          <folding />
         </state>
       </provider>
     </entry>
