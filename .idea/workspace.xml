@@ -78,7 +78,7 @@
       <file leaf-file-name="CoinChangerTest.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tests/CoinChangerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="99" column="64" selection-start="3132" selection-end="3132" vertical-scroll-proportion="0.8995536" vertical-offset="1082" max-vertical-offset="1650">
+            <state line="113" column="28" selection-start="3555" selection-end="3555" vertical-scroll-proportion="0.93303573" vertical-offset="1277" max-vertical-offset="1860">
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#544#553#0" expanded="true" />
@@ -91,6 +91,7 @@
                 <element signature="e#2481#2490#0" expanded="true" />
                 <element signature="e#2752#2761#0" expanded="true" />
                 <element signature="e#2991#3000#0" expanded="true" />
+                <element signature="e#3261#3270#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -470,6 +471,7 @@
             <element signature="e#2481#2490#0" expanded="true" />
             <element signature="e#2752#2761#0" expanded="true" />
             <element signature="e#2991#3000#0" expanded="true" />
+            <element signature="e#3261#3270#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -483,7 +485,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/CoinChangerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="99" column="64" selection-start="3132" selection-end="3132" vertical-scroll-proportion="0.8995536" vertical-offset="1082" max-vertical-offset="1650">
+        <state line="113" column="28" selection-start="3555" selection-end="3555" vertical-scroll-proportion="0.93303573" vertical-offset="1277" max-vertical-offset="1860">
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#544#553#0" expanded="true" />
@@ -496,6 +498,7 @@
             <element signature="e#2481#2490#0" expanded="true" />
             <element signature="e#2752#2761#0" expanded="true" />
             <element signature="e#2991#3000#0" expanded="true" />
+            <element signature="e#3261#3270#0" expanded="true" />
           </folding>
         </state>
       </provider>
