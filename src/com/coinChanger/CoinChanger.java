@@ -8,21 +8,13 @@ import java.util.ArrayList;
 public class CoinChanger {
     public ArrayList giveChange(int amount){
         ArrayList <Integer> change = new ArrayList<Integer>();
-        while (amount >= 10){
-            change.add(10);
-            amount -= 10;
+        int [] coins = {25, 10, 5, 1};
+        for (int coin : coins){
+            while (amount >= coin){
+                change.add(coin);
+                amount -= coin;
+            }
         }
-
-        while (amount >= 5){
-            change.add(5);
-            amount -= 5;
-        }
-
-        while (amount > 0){
-            change.add(1);
-            amount -= 1;
-        }
-
         return change;
     }
 }
